@@ -1,10 +1,10 @@
-(module "AD633ARZ" (layer F.Cu) (tedit 6209D64F)
-  (descr "AD633ARZ, SOIC-8 Analog To Digital Converters (ADCs) RoHS")
-  (tags "SOIC-8 Analog To Digital Converters (ADCs) RoHS, Analog ICs, Analog To Digital Converters (ADCs)")
+(module "X9C503SIZT1" (layer F.Cu) (tedit 6209D697)
+  (descr "X9C503SIZT1, Digital Potentiometer ICs SOIC-8 RoHS")
+  (tags "Digital Potentiometer ICs SOIC-8 RoHS, Analog ICs, Digital Potentiometer ICs")
   (fp_text reference REF** (at 0 -4.772416) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value AD633ARZ (at 0 4.772416) (layer F.Fab)
+  (fp_text value X9C503SIZT1 (at 0 4.772416) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center -1.905004 0.769114) (end -1.75489 0.769114) (layer F.SilkS) (width 0.3))
@@ -26,7 +26,7 @@
   (fp_text user REF** (at 0 6.772416) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Z:\footprint/lcsc_analog_ics/packages3d/AD633ARZ.wrl
+  (model Z:\footprint/lcsc_analog_ics/packages3d/X9C503SIZT1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
